@@ -36,7 +36,9 @@
   <img src="https://img.shields.io/badge/@ayush_mishra-3366CC?style=for-the-badge&logo=hackerrank"/>
 </a>
 </p>
-## ⚒ Languages and Tools :
+
+<h3 align="left">⚒ Languages and Tools:</h3>
+
 <div>
   <img src="https://tse2.mm.bing.net/th?id=OIP.fHAfQ7x-7gpvBgasADWhKAHaHa&pid=Api&P=0&h=180" title="Python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://tse4.mm.bing.net/th?id=OIP.urLHYMYPFxkcs6AC4Io9vwHaHa&pid=Api&P=0&h=180" title="Mysql" alt="MySql" width="40" height="40"/>&nbsp;
