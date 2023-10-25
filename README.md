@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with Me:</h3>
 <p align="centre">
-  <a href="https://https://www.linkedin.com/in/ayush-mishra-94a31b233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayush Linkedin" height="30" width="40" /></a>
+ <a href="https://https://www.linkedin.com/in/ayush-mishra-94a31b233//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayush Linkedin" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/ayushmishra2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Ayush Kaggle" height="30" width="40" /></a>
 <a href="https://instagram.com/beingayushmishra27?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ayush Instagram" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/ayush51902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Ayush Hacker Rank" height="30" width="40" /></a>
